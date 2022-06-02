@@ -6,3 +6,4 @@
 2. Maven
 3. Spring JDBC
 4. Bootstrap
+5. JQuery
