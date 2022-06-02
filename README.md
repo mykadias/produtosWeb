@@ -7,4 +7,4 @@
 3. Spring JDBC
 4. Bootstrap
 5. JQuery
-> Créditos ao professor Sérgio Mendes (@smendescoti), pois a documentação e o projeto feitos em aula, me permitiu ter o conhecimento para realizar esse desafio.
+> Créditos ao professor Sérgio Mendes (@smendescoti), pois a documentação e o projeto exemplo feitos em aula, me permitiu ter o conhecimento para realizar esse desafio.
